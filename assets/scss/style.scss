@@ -1,0 +1,26 @@
+.field {
+    margin: 30px auto;
+    padding: 10px;
+}
+.block {
+    width: 30px;
+    height: 30px;
+    border-radius: 2px;
+    border: 1px solid rgb(22, 21, 21);
+    margin: 1px;
+}
+.line {
+    display: flex;
+    max-width: 500px;
+    margin: auto;
+}
+
+.filled {
+    background-color: red
+}
+.figure-block {
+    background-color: green;
+}
+.inactive {
+   display: none;
+}
